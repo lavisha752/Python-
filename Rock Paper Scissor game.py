@@ -45,4 +45,5 @@ while (1):
          decision == False
 # or exit from the program
         print('Exit Game')
+        break
 
